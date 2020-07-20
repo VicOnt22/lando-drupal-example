@@ -1,13 +1,13 @@
 {
-    "name": "jigarius/lando-drupal",
-    "description": "Demo of using Lando with Drupal.",
+    "name": "VicOnt22/lando-drupal-example",
+    "description": "Demo of using Lando with Drupal9.",
     "type": "project",
     "license": "GPL-2.0-or-later",
     "authors": [
         {
-            "name": "Jigar Mehta",
+            "name": "Vic T.",
             "role": "Owner",
-            "homepage": "https://jigarius.com/"
+            "homepage": "https://selectfix.com/"
         }
     ],
     "repositories": [
